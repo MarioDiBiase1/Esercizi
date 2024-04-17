@@ -1,0 +1,10 @@
+C:\Users\mario\source\repos\MyMvvmCrossApp1\MyMvvmCrossApp1\src\MyMvvmCrossApp1.Core\bin\Debug\netstandard2.0\MyMvvmCrossApp1.Core.deps.json
+C:\Users\mario\source\repos\MyMvvmCrossApp1\MyMvvmCrossApp1\src\MyMvvmCrossApp1.Core\bin\Debug\netstandard2.0\MyMvvmCrossApp1.Core.dll
+C:\Users\mario\source\repos\MyMvvmCrossApp1\MyMvvmCrossApp1\src\MyMvvmCrossApp1.Core\bin\Debug\netstandard2.0\MyMvvmCrossApp1.Core.pdb
+C:\Users\mario\source\repos\MyMvvmCrossApp1\MyMvvmCrossApp1\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.csproj.AssemblyReference.cache
+C:\Users\mario\source\repos\MyMvvmCrossApp1\MyMvvmCrossApp1\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mario\source\repos\MyMvvmCrossApp1\MyMvvmCrossApp1\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.AssemblyInfoInputs.cache
+C:\Users\mario\source\repos\MyMvvmCrossApp1\MyMvvmCrossApp1\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.AssemblyInfo.cs
+C:\Users\mario\source\repos\MyMvvmCrossApp1\MyMvvmCrossApp1\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.csproj.CoreCompileInputs.cache
+C:\Users\mario\source\repos\MyMvvmCrossApp1\MyMvvmCrossApp1\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.dll
+C:\Users\mario\source\repos\MyMvvmCrossApp1\MyMvvmCrossApp1\src\MyMvvmCrossApp1.Core\obj\Debug\netstandard2.0\MyMvvmCrossApp1.Core.pdb

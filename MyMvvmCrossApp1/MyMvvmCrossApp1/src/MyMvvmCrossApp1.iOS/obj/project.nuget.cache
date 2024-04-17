@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "zQJKl5FnC1anu7TnrMcKa9FJw3ObwA4HPBBnld7dYF4SVTSnQ9WZx9d0kimogyRolZ7eKj7yJ9weQlgRx18IqA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mario\\source\\repos\\MyMvvmCrossApp1\\MyMvvmCrossApp1\\src\\MyMvvmCrossApp1.iOS\\MyMvvmCrossApp1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mario\\.nuget\\packages\\cirrious.fluentlayout\\2.9.0\\cirrious.fluentlayout.2.9.0.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\microsoft.extensions.logging\\2.0.0\\microsoft.extensions.logging.2.0.0.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\microsoft.extensions.options\\2.0.0\\microsoft.extensions.options.2.0.0.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\mvvmcross\\8.0.2\\mvvmcross.8.0.2.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\serilog\\2.8.0\\serilog.2.8.0.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\serilog.extensions.logging\\3.0.1\\serilog.extensions.logging.3.0.1.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\serilog.sinks.xamarin\\0.2.0.64\\serilog.sinks.xamarin.0.2.0.64.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\xam.plugins.texttospeech\\4.0.0.7\\xam.plugins.texttospeech.4.0.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

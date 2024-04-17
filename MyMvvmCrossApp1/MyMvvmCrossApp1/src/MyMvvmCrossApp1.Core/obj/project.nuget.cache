@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "P5qxB/a/MZuYH7ntb2fwCJwkQ9yFesSOodFoFP9m0w8+vDUyUrAsAlSgtw22DwNiyH8o1YAbrJ6iE0hpFT4/Gg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mario\\source\\repos\\MyMvvmCrossApp1\\MyMvvmCrossApp1\\src\\MyMvvmCrossApp1.Core\\MyMvvmCrossApp1.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mario\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\mvvmcross\\8.0.2\\mvvmcross.8.0.2.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\mario\\.nuget\\packages\\xam.plugins.texttospeech\\4.0.0.7\\xam.plugins.texttospeech.4.0.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
