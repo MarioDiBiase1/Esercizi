@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Grossetapp.MeteoPage"
+             Title="MeteoPage">
+
+    <StackLayout HorizontalOptions="CenterAndExpand">
+        <Label Text="Meteo" FontSize="20" FontAttributes="Bold" />
+    </StackLayout>
+
+
+</ContentPage>
+

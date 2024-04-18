@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="Grossetapp.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Grossetapp"
+   Shell.FlyoutBehavior="Flyout"
+    Title="Grossetapp"
+    Shell.ForegroundColor="{AppThemeBinding Light={StaticResource Black}, Dark={StaticResource White}}">
+
+
+    <Shell.TitleView>
+        <StackLayout  HorizontalOptions="CenterAndExpand" >
+            <Image Source="grosseto.png" HeightRequest="30" WidthRequest="30" />
+            <Label Text="{Binding CurrentItem.Title}" TextColor="Black" FontSize="20" FontAttributes="Bold" Margin="5,0,0,0"/>
+        </StackLayout>
+    </Shell.TitleView>
+
+
+
+    <ShellContent
+            Icon="citta.svg"
+            Title="Città"
+            ContentTemplate="{DataTemplate local:CittàPage}"
+            Route="CittàPage" />
+
+    <ShellContent
+             Icon="meteo.svg"
+            Title="Meteo"
+            ContentTemplate="{DataTemplate local:MeteoPage}"
+            Route="MeteoPage" />
+
+
+</Shell>

@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mario\\source\\repos\\Grossetapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{063FFAC7-816D-4E0B-90E6-D47EA8C4DB71}|Grossetapp\\Grossetapp.csproj|c:\\users\\mario\\source\\repos\\grossetapp\\grossetapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{063FFAC7-816D-4E0B-90E6-D47EA8C4DB71}|Grossetapp\\Grossetapp.csproj|solutionrelative:grossetapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063FFAC7-816D-4E0B-90E6-D47EA8C4DB71}|Grossetapp\\Grossetapp.csproj|c:\\users\\mario\\source\\repos\\grossetapp\\grossetapp\\citt\u00E0page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{063FFAC7-816D-4E0B-90E6-D47EA8C4DB71}|Grossetapp\\Grossetapp.csproj|solutionrelative:grossetapp\\citt\u00E0page.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{063FFAC7-816D-4E0B-90E6-D47EA8C4DB71}|Grossetapp\\Grossetapp.csproj|c:\\users\\mario\\source\\repos\\grossetapp\\grossetapp\\meteopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{063FFAC7-816D-4E0B-90E6-D47EA8C4DB71}|Grossetapp\\Grossetapp.csproj|solutionrelative:grossetapp\\meteopage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 285,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MeteoPage.xaml",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Grossetapp\\Grossetapp\\MeteoPage.xaml",
+              "RelativeDocumentMoniker": "Grossetapp\\MeteoPage.xaml",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Grossetapp\\Grossetapp\\MeteoPage.xaml",
+              "RelativeToolTip": "Grossetapp\\MeteoPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T15:24:47.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Citt\u00E0Page.xaml",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Grossetapp\\Grossetapp\\Citt\u00E0Page.xaml",
+              "RelativeDocumentMoniker": "Grossetapp\\Citt\u00E0Page.xaml",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Grossetapp\\Grossetapp\\Citt\u00E0Page.xaml",
+              "RelativeToolTip": "Grossetapp\\Citt\u00E0Page.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T15:22:07.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\mario\\source\\repos\\Grossetapp\\Grossetapp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "Grossetapp\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\mario\\source\\repos\\Grossetapp\\Grossetapp\\AppShell.xaml",
+              "RelativeToolTip": "Grossetapp\\AppShell.xaml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-18T15:07:14.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 115,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
